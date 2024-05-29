@@ -1,0 +1,806 @@
+[
+	{
+		"count":1,
+		"name": "Thorns",
+		"category": ["Starter_Abilities","Buff_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Wrath",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Moonfire",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Swipe (Bear)",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Rip",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Claw",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Prowl",
+		"category": ["Starter_Abilities","Other_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Growl",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Maul",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Swipe (Cat)",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Feral Charge",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Rejuvenation",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Mark of the Wild",
+		"category": ["Starter_Abilities","Buff_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Healing Touch",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Aspect of the Monkey",
+		"category": ["Starter_Abilities","Buff_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Aspect of the Hawk",
+		"category": ["Starter_Abilities","Buff_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Tame Beast",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Hunter's Mark",
+		"category": ["Starter_Abilities","Other_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Serpent Sting",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Arcane Shot",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Auto Shot",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Mongoose Bite",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Raptor Strike",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Brilliance Aura",
+		"category": ["Starter_Abilities","Buff_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Fizzle",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Conjure Food",
+		"category": ["Starter_Abilities","Other_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Arcane Intellect",
+		"category": ["Starter_Abilities","Buff_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Arcane Missiles",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Conjure Water",
+		"category": ["Starter_Abilities","Other_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Mage Armor",
+		"category": ["Starter_Abilities","Buff_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Tame Dragonkin",
+		"category": ["Starter_Abilities","Other_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Fireball",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Fire Blast",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Frostbolt",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Frost Armor",
+		"category": ["Starter_Abilities","Buff_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Holy Light",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Blessing of Wisdom",
+		"category": ["Starter_Abilities","Buff_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Concentration Aura",
+		"category": ["Starter_Abilities","Buff_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Seal of Wisdom",
+		"category": ["Starter_Abilities","Buff_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Seal of Righteousness",
+		"category": ["Starter_Abilities","Buff_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Consecration",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Devotion Aura",
+		"category": ["Starter_Abilities","Buff_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Righteous Fury",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Shield of Righteousness",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Hand of Reckoning",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Rebuke",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Blessing of Might",
+		"category": ["Starter_Abilities","Buff_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Judgement of Light",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Judgement of Justice",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Crusader Strike",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Power Word Fortitude",
+		"category": ["Starter_Abilities","Buff_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Renew",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Smite",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Greater Heal",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Shadow Word Pain",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Eviscerate",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Slice and Dice",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Backstab",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Sinister Strike",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Pick Pocket",
+		"category": ["Starter_Abilities","Other_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Stealth",
+		"category": ["Starter_Abilities","Other_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Tether Elemental",
+		"category": ["Starter_Abilities","Other_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Lightning Bolt",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Searing Totem",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Stoneclaw Totem",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Earth Shock",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Lightning Shield",
+		"category": ["Starter_Abilities","Buff_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Stoneskin Totem",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Stormstrike",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Healing Wave",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Corruption",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Curse of Weakness",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Curse of Agony",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Life Tap",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Enslave Demon",
+		"category": ["Starter_Abilities","Other_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Summoner's Armor",
+		"category": ["Starter_Abilities","Other_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Demon Skin",
+		"category": ["Starter_Abilities","Buff_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Summon Imp",
+		"category": ["Starter_Abilities","Other_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Immolate",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Shadow Bolt",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Heroic Strike",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Charge",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Rend",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Hamstring",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Battle Stance",
+		"category": ["Starter_Abilities","Other_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Thunder Clap",
+		"category": ["Starter_Abilities","Attack_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Battle Shout",
+		"category": ["Starter_Abilities","Buff_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Victory Rush",
+		"category": ["Starter_Abilities","Other_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Defensive Stance",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Taunt",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Shield Block",
+		"category": ["Starter_Abilities","Utility_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Bloodrage",
+		"category": ["Starter_Abilities","Buff_Abilities"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Primary Stat - Strength",
+		"category": ["Primary_Stats"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Primary Stat - Agility",
+		"category": ["Primary_Stats"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Primary Stat - Intellect",
+		"category": ["Primary_Stats"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Primary Stat - Spirit",
+		"category": ["Primary_Stats"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count":1,
+		"name": "Stranglethorn Vale Access",
+		"category": ["30-35_Zone","35-40_Zone","40-45_Zone","45-50_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "The Hinterlands Access",
+		"category": ["40-45_Zone","45-50_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ashenvale Access",
+		"category": ["20-25_Zone","25-30_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Desolace Access",
+		"category": ["30-35_Zone","35-40_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Feralas Access",
+		"category": ["40-45_Zone","45-50_Zone","50-55_Zone","55-60_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Azshara Access",
+		"category": ["40-45_Zone","45-50_Zone","50-55_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Felwood Access",
+		"category": ["45-50_Zone","50-55_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Badlands Access",
+		"category": ["35-40_Zone","40-45_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Blasted Lands Access",
+		"category": ["45-50_Zone","50-55_Zone","55-60_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Searing Gorge Access",
+		"category": ["45-50_Zone","50-55_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Hillsbrad Foothills Access",
+		"category": ["20-25_Zone","25-30_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Winterspring Access",
+		"category": ["55-60_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Swamp of Sorrows Access",
+		"category": ["35-40_Zone","40-45_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Duskwood Access",
+		"category": ["15-20_Zone","20-25_Zone","25-30_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Arathi Highlands Access",
+		"category": ["30-35_Zone","35-40_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Western Plaguelands Access",
+		"category": ["45-50_Zone","50-55_Zone","55-60_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tanaris Access",
+		"category": ["40-45_Zone","45-50_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Burning Steppes Access",
+		"category": ["50-55_Zone","55-60_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Eastern Plaguelands Access",
+		"category": ["55-60_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stonetalon Mountains Access",
+		"category": ["15-20_Zone 20-25_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Wetlands Access",
+		"category": ["20-25_Zone","25-30_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Silithus Access",
+		"category": ["50-55_Zone","55-60_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "UnGoro Crater Access",
+		"category": ["50-55_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Thousand Needles Access",
+		"category": ["25-30_Zone","30-35_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Westfall Access",
+		"category": ["10-15_Zone","15-20_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Alterac Mountains Access",
+		"category": ["25-30_Zone","30-35_Zone","35-40_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Loch Modan Access",
+		"category": ["10-15_Zone","15-20_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Darkshore Access",
+		"category": ["10-15_Zone","15-20_Zone"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Deadwind Pass Access",
+		"category": ["50-55_Zone","55-60_Zone"],
+		"progression": true
+	},
+	{
+		"count": "3",
+		"name": "Random Druid Ability",
+		"category": ["Random_Ability"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": "3",
+		"name": "Random Hunter Ability",
+		"category": ["Random_Ability"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": "3",
+		"name": "Random Mage Ability",
+		"category": ["Random_Ability"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": "3",
+		"name": "Random Paladin Ability",
+		"category": ["Random_Ability"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": "3",
+		"name": "Random Priest Ability",
+		"category": ["Random_Ability"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": "3",
+		"name": "Random Warlock Ability",
+		"category": ["Random_Ability"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": "3",
+		"name": "Random Rogue Ability",
+		"category": ["Random_Ability"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": "3",
+		"name": "Random Shaman Ability",
+		"category": ["Random_Ability"],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": "3",
+		"name": "Random Warrior Ability",
+		"category": ["Random_Ability"],
+		"progression_skip_balancing": true
+	}
+]

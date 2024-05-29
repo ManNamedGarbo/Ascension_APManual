@@ -1,0 +1,393 @@
+[
+	{
+		"name": "Level 2",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": []
+	},
+	{
+		"name": "Level 3",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": []
+	},
+	{
+		"name": "Level 4",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": []
+	},
+	{
+		"name": "Level 5",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": []
+	},
+	{
+		"name": "Level 6",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": []
+	},
+	{
+		"name": "Level 7",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": []
+	},
+	{
+		"name": "Level 8",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": []
+	},
+	{
+		"name": "Level 9",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": []
+	},
+	{
+		"name": "Level 10",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:1|"
+	},
+	{
+		"name": "Level 11",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:1| AND |@Random_Ability:1|"
+	},
+	{
+		"name": "Level 12",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:1| AND |@Random_Ability:1|"
+	},
+	{
+		"name": "Level 13",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:1| AND |@Random_Ability:1|"
+	},
+	{
+		"name": "Level 14",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:1| AND |@Random_Ability:1|"
+	},
+	{
+		"name": "Level 15",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:1| AND |@Random_Ability:1|"
+	},
+	{
+		"name": "Level 16",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:1| AND |@Random_Ability:2|"
+	},
+	{
+		"name": "Level 17",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:1| AND |@Random_Ability:2|"
+	},
+	{
+		"name": "Level 18",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:1| AND |@Random_Ability:2|"
+	},
+	{
+		"name": "Level 19",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:1| AND |@Random_Ability:2|"
+	},
+	{
+		"name": "Level 20",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:1| AND |@Random_Ability:2|"
+	},
+	{
+		"name": "Level 21",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:1| AND |@Random_Ability:3|"
+	},
+	{
+		"name": "Level 22",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:1| AND |@Random_Ability:3|"
+	},
+	{
+		"name": "Level 23",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:1| AND |@Random_Ability:3|"
+	},
+	{
+		"name": "Level 24",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:1| AND |@Random_Ability:3|"
+	},
+	{
+		"name": "Level 25",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:1| AND |@Random_Ability:3|"
+	},
+	{
+		"name": "Level 26",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:1| AND |@Random_Ability:4|"
+	},
+	{
+		"name": "Level 27",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:1| AND |@Random_Ability:4|"
+	},
+	{
+		"name": "Level 28",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:1| AND |@Random_Ability:4|"
+	},
+	{
+		"name": "Level 29",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:1| AND |@Random_Ability:4|"
+	},
+	{
+		"name": "Level 30",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:1| AND |@Random_Ability:4|"
+	},
+	{
+		"name": "Level 31",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:1| AND |@Random_Ability:5|"
+	},
+	{
+		"name": "Level 32",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:1| AND |@Random_Ability:5|"
+	},
+	{
+		"name": "Level 33",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:1| AND |@Random_Ability:5|"
+	},
+	{
+		"name": "Level 34",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:1| AND |@Random_Ability:5|"
+	},
+	{
+		"name": "Level 35",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:1| AND |@Random_Ability:5|"
+	},
+	{
+		"name": "Level 36",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:1| AND |@Random_Ability:6|"
+	},
+	{
+		"name": "Level 37",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:1| AND |@Random_Ability:6|"
+	},
+	{
+		"name": "Level 38",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:1| AND |@Random_Ability:6|"
+	},
+	{
+		"name": "Level 39",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:1| AND |@Random_Ability:6|"
+	},
+	{
+		"name": "Level 40",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:1| AND |@Random_Ability:6|"
+	},
+	{
+		"name": "Level 41",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:2| AND |@40-45_Zone:1| AND |@Random_Ability:7|"
+	},
+	{
+		"name": "Level 42",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:2| AND |@40-45_Zone:1| AND |@Random_Ability:7|"
+	},
+	{
+		"name": "Level 43",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:2| AND |@40-45_Zone:1| AND |@Random_Ability:7|"
+	},
+	{
+		"name": "Level 44",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:2| AND |@40-45_Zone:1| AND |@Random_Ability:7|"
+	},
+	{
+		"name": "Level 45",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:2| AND |@40-45_Zone:1| AND |@Random_Ability:7|"
+	},
+	{
+		"name": "Level 46",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:2| AND |@40-45_Zone:2| AND |@45-50_Zone:1| AND |@Random_Ability:8|"
+	},
+	{
+		"name": "Level 47",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:2| AND |@40-45_Zone:2| AND |@45-50_Zone:1| AND |@Random_Ability:8|"
+	},
+	{
+		"name": "Level 48",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:2| AND |@40-45_Zone:2| AND |@45-50_Zone:1| AND |@Random_Ability:8|"
+	},
+	{
+		"name": "Level 49",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:2| AND |@40-45_Zone:2| AND |@45-50_Zone:1| AND |@Random_Ability:8|"
+	},
+	{
+		"name": "Level 50",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:2| AND |@40-45_Zone:2| AND |@45-50_Zone:1| AND |@Random_Ability:8|"
+	},
+	{
+		"name": "Level 51",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:2| AND |@40-45_Zone:2| AND |@45-50_Zone:2| AND |@50-55_Zone:1| AND |@Random_Ability:9|"
+	},
+	{
+		"name": "Level 52",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:2| AND |@40-45_Zone:2| AND |@45-50_Zone:2| AND |@50-55_Zone:1| AND |@Random_Ability:9|"
+	},
+	{
+		"name": "Level 53",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:2| AND |@40-45_Zone:2| AND |@45-50_Zone:2| AND |@50-55_Zone:1| AND |@Random_Ability:9|"
+	},
+	{
+		"name": "Level 54",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:2| AND |@40-45_Zone:2| AND |@45-50_Zone:2| AND |@50-55_Zone:1| AND |@Random_Ability:9|"
+	},
+	{
+		"name": "Level 55",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:2| AND |@40-45_Zone:2| AND |@45-50_Zone:2| AND |@50-55_Zone:2| AND |@Random_Ability:9|"
+	},
+	{
+		"name": "Level 56",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:2| AND |@40-45_Zone:2| AND |@45-50_Zone:2| AND |@50-55_Zone:2| AND |@55-60_Zone:1| AND |@Random_Ability:10|"
+	},
+	{
+		"name": "Level 57",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:2| AND |@40-45_Zone:2| AND |@45-50_Zone:2| AND |@50-55_Zone:2| AND |@55-60_Zone:1| AND |@Random_Ability:10|"
+	},
+	{
+		"name": "Level 58",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:2| AND |@40-45_Zone:2| AND |@45-50_Zone:2| AND |@50-55_Zone:2| AND |@55-60_Zone:1| AND |@Random_Ability:10|"
+	},
+	{
+		"name": "Level 59",
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:2| AND |@40-45_Zone:2| AND |@45-50_Zone:2| AND |@50-55_Zone:2| AND |@55-60_Zone:1| AND |@Random_Ability:10|"
+	},
+	{
+		"name": "Level 60",
+		"victory": true,
+		"region": "Racial Starting Zones",
+		"category": ["Levels"],
+		"requires": "|@10-15_Zone:2| AND |@15-20_Zone:2| AND |@20-25_Zone:2| AND |@25-30_Zone:2| AND |@30-35_Zone:2| AND |@35-40_Zone:2| AND |@40-45_Zone:2| AND |@45-50_Zone:2| AND |@50-55_Zone:2| AND |@55-60_Zone:1| AND |@Random_Ability:10|"
+	},
+	{
+		"name": "Complete Starter Zone Questline",
+		"region": "Racial Starting Zones",
+		"category": ["Special_Tasks"],
+		"requires": []
+	},
+	{
+		"name": "Spend a Talent Point",
+		"region": "Racial Starting Zones",
+		"category": ["Special_Tasks"],
+		"requires": "|@10-15_Zone:1|"
+	},
+	{
+		"name": "Equip a Legendary RE",
+		"region": "Racial Starting Zones",
+		"category": ["Special_Tasks"],
+		"requires": "|@10-15_Zone:1| AND |@15-20_Zone:1|"
+	},
+	{
+		"name": "Equip an Item in Each Slot",
+		"region": "Racial Starting Zones",
+		"category": ["Special_Tasks"],
+		"requires": "|@10-15_Zone:1|"
+	},
+	{
+		"name": "Complete a Random Battleground",
+		"region": "Racial Starting Zones",
+		"category": ["Special_Tasks"],
+		"requires": "|@10-15_Zone:1|"
+	},
+	{
+		"name": "Use the Dungeon Finder",
+		"region": "Racial Starting Zones",
+		"category": ["Special_Tasks"],
+		"requires": "|@10-15_Zone:1| AND |@15-20_Zone:1|"
+	}
+]

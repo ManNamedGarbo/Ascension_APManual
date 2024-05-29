@@ -1,0 +1,135 @@
+{
+	"Racial Starting Zones": 	{
+		"starting": true,
+		"connects_to": ["Tirisfal Glades","Durotar","Mulgore"],
+		"requires": []
+	},
+	"Tirisfal Glades": 	{
+		"connects_to": ["Silverpine Forest","Western Plaguelands","Durotar","Stranglethorn Vale"],
+		"requires": []
+	},
+	"Silverpine Forest": 	{
+		"connects_to": ["Hillsbrad Foothills"],
+		"requires": "|Silverpine Forest Access|"
+	},
+	"Western Plaguelands": 	{
+		"connects_to": ["Eastern Plaguelands","Hillsbrad Foothills"],
+		"requires": "|Western Plaguelands Access|"
+	},
+	"Hillsbrad Foothills": 	{
+		"connects_to": ["Silverpine Forest","Western Plaguelands","Arathi Highlands"],
+		"requires": "|Hillsbrad Foothills Access|"
+	},
+	"Eastern Plaguelands": 	{
+		"connects_to": ["Western Plaguelands"],
+		"requires": "|Eastern Plaguelands Access|"
+	},
+	"Arathi Highlands": 	{
+		"connects_to": ["Hillsbrad Foothills","Wetlands","The Hinterlands"],
+		"requires": "|Arathi Highlands Access|"
+	},
+	"The Hinterlands": 	{
+		"connects_to": ["Arathi Highlands"],
+		"requires": "|The Hinterlands Access|"
+	},
+	"Wetlands": 	{
+		"connects_to": ["Arathi Highlands","Searing Gorge","Ashenvale"],
+		"requires": "|Wetlands Access|"
+	},
+	"Badlands": 	{
+		"connects_to": ["Searing Gorge"],
+		"requires": "|Badlands Access|"
+	},
+	"Searing Gorge": 	{
+		"connects_to": ["Badlands","Burning Steppes","Wetlands"],
+		"requires": "|Searing Gorge Access|"
+	},
+	"Burning Steppes": 	{
+		"connects_to": ["Searing Gorge","Redridge Mountains","Duskwood"],
+		"requires": "|Burning Steppes Access|"
+	},
+	"Redridge Mountains": 	{
+		"connects_to": ["Duskwood","Burning Steppes"],
+		"requires": "|Redridge Mountains Access|"
+	},
+	"Duskwood": 	{
+		"connects_to": ["Redridge Mountains","Stranglethorn Vale","Deadwind Pass","Burning Steppes"],
+		"requires": "|Duskwood Access|"
+	},
+	"Stranglethorn Vale": 	{
+		"connects_to": ["Duskwood"],
+		"requires": "|Stranglethorn Vale Access|"
+	},
+	"Deadwind Pass": 	{
+		"connects_to": ["Duskwood","Swamp of Sorrows"],
+		"requires": "|Deadwind Pass Access|"
+	},
+	"Swamp of Sorrows": 	{
+		"connects_to": ["Deadwind Pass","Blasted Lands"],
+		"requires": "|Swamp of Sorrows Access|"
+	},
+	"Blasted Lands": 	{
+		"connects_to": ["Swamp of Sorrows"],
+		"requires": "|Blasted Lands Access|"
+	},
+	"Ashenvale": 	{
+		"connects_to": ["Felwood","Azshara","Stonetalon Mountains","The Barrens","Wetlands"],
+		"requires": "|Ashenvale Access|"
+	},
+	"Felwood": 	{
+		"connects_to": ["Ashenvale","Moonglade","Winterspring"],
+		"requires": "|Felwood Access|"
+	},
+	"Moonglade": 	{
+		"connects_to": ["Felwood","Winterspring"],
+		"requires": []
+	},
+	"Winterspring": 	{
+		"connects_to": ["Felwood","Moonglade"],
+		"requires": "|Winterspring Access|"
+	},
+	"Azshara": 	{
+		"connects_to": ["The Barrens","Durotar","Ashenvale"],
+		"requires": "|Azshara Access|"
+	},
+	"The Barrens": 	{
+		"connects_to": ["Durotar","Stonetalon Mountains","Ashenvale","Mulgore","Dustwallow Marsh","Stranglethorn Vale"],
+		"requires": "|The Barrens Access|"
+	},
+	"Durotar": 	{
+		"connects_to": ["The Barrens","Ashenvale","Azshara","Tirisfal Glades","Stranglethorn Vale"],
+		"requires": []
+	},
+	"Stonetalon Mountains": 	{
+		"connects_to": ["Ashenvale","The Barrens","Desolace"],
+		"requires": "|Stonetalon Mountains Access|"
+	},
+	"Desolace": 	{
+		"connects_to": ["Stonetalon Mountains","Feralas"],
+		"requires": "|Desolace Access|"
+	},
+	"Mulgore": 	{
+		"connects_to": ["The Barrens"],
+		"requires": []
+	},
+	"Feralas": 	{
+		"connects_to": ["Desolace","Tanaris"],
+		"requires": "|Feralas Access|"
+	},
+	"Dustwallow Marsh": 	{
+		"connects_to": ["The Barrens"],
+		"requires": "|Dustwallow Marsh Access|"
+	},
+	"Tanaris": 	{
+		"connects_to": ["UnGoro Crater","Feralas"],
+		"requires": "|Tanaris Access|"
+	},
+	"UnGoro Crater": 	{
+		"connects_to": ["Tanaris","Silithus"],
+		"requires": "|UnGoro Crater Access|"
+	},
+	"Silithus": 	{
+		"connects_to": ["UnGoro Crater"],
+		"requires": "|Silithus Access|"
+}
+}
